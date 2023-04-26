@@ -1,2 +1,2 @@
 # reqws
-Eazy ws(s) requests.
+Eazy ws(s) requests!
